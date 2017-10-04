@@ -3,7 +3,6 @@ General purpose Command Line Interface (CLI) framework for Ruby
 
 ## v0.1.0.beta1 (unreleased)
 ### Added
-- [Anton Davydov] Array type for options
 - [Alfonso Uceda, Luca Guidi] Commands banner and usage
 - [Alfonso Uceda] Added support for subcommands
 - [Alfonso Uceda] Validations for arguments and options
